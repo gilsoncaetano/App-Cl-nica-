@@ -1,16 +1,17 @@
 {
   "expo": {
-    "name": "projetoclinica",
-    "slug": "projetoclinica",
+    "name": "appvenda",
+    "slug": "appvenda",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/brasaude.png",
+    "icon": "./assets/images/2rm.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/bradescofum.png",
+      "image": "./img/logoclube.png",
+
       "resizeMode": "contain",
-      "backgroundColor": "#81d4fa"
+      "backgroundColor": "#388e3c"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
